@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(214, 206, 206);
+  background-color: rgba(156, 154, 140, 0.89);
   
 }
 
@@ -16,12 +16,20 @@
 }
 
 .header{
+  height:150px;
   padding:1%;
+  margin-bottom:2%;
+  font-size:1.3rem;
+  background-color: #282c34;
+  color:tan;
 }
-
+.date{
+  font-size: 2rem;
+}
 .quote{
   font-style:italic;
-  
+  margin-left:15%;
+  margin-right:15%;
 }
 
 .App-header {
@@ -38,7 +46,7 @@
 .body-container{
   display:inline;
   margin-bottom:1%;
-  
+  margin-left:15%;
   
 }
 .App-link {
@@ -46,15 +54,24 @@
 
 }
 
-.headerTitle{
 
+.image{
+  margin-left:2.5%;
 }
 .bodyText{
   width: 75%;
-  margin-left:13%;
+  margin-left:15%;
+  font-size:1.2rem;
+  font-weight: 500;
 }
 .footer{
-  padding-bottom:5%
+  margin-top:3%;
+  padding-top:1%;
+  padding-bottom:1%;
+  color:tan;
+  background-color: #282c34;
+  width:100%;
+  font-size:2rem;
 }
 
 @keyframes App-logo-spin {

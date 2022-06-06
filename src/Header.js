@@ -4,7 +4,7 @@ const Header = ({ date }) => {
 <div className="header"> 
 <h1 className ='headerTitle'>Astronomy Photo Of the Day</h1>
 
-<h2>{date}</h2>
+<h2 className="date">{date}</h2>
 </div>
 )
 }
