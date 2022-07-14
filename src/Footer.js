@@ -1,5 +1,4 @@
 import React from "react";
-
 const Footer = ({ date, title  }) => {
     return (
     <div className="footer">
