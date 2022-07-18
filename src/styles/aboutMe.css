@@ -1,0 +1,44 @@
+.body{
+    background-color:rgba(156, 154, 140, 0.89);
+    text-align: center;
+    padding-top:1%;
+    padding-bottom: 20%;
+}
+h1{
+margin-top:2%;
+}
+
+.mainSect{
+    font-size: 1.6rem;
+    margin-left: 5%;
+    margin-right:5%;
+    letter-spacing: .05rem;
+}
+.subSect{
+    margin-top:3%;
+}
+
+.imgRow{
+    display: flex;
+    margin-left:18%;
+}
+
+img{
+    
+    width: 20%;
+    margin-bottom:3%;
+    margin-left:3%;
+    margin-right:3%;
+    margin-top:2%;
+}
+.github{
+    margin-top:1%
+}
+li {
+    list-style-type : none;
+    font-size: 1.8rem;
+  }
+
+a {
+    color:#a8661b;
+}
