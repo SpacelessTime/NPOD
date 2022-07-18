@@ -39,6 +39,7 @@
 .header{
   height:150px;
   padding:1%;
+  padding-bottom:4%;
   margin-bottom:2%;
   font-size:1.3rem;
   background-color: #282c34;
@@ -63,7 +64,11 @@
   font-size: calc(10px + 2vmin);
   color:white;
 }
-
+.aboutMeLink{
+  color:#c28034;
+}
+.photoLink{
+  color:#c28034;}
 .body-container{
   display:inline;
   margin-bottom:1%;
