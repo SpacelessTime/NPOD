@@ -2,7 +2,6 @@ import React from "react";
 
 const Body = ({ title, explanation, copyright, url,}) => {
 
-   
     return(
     <div className="body-container">
         <h1 className = 'bodyTitle'> {title} </h1>

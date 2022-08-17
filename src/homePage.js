@@ -43,9 +43,7 @@ const [qod,setQod] = useState("")
       copyright={apod.copyright}
       
        />
-        <Footer date={apod.date} title={apod.title}/>
-
-        
+        <Footer date={apod.date} title={apod.title}/>  
   </div>
   )}
 }
