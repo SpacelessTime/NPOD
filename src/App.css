@@ -73,8 +73,7 @@
 @media only screen and (min-width:1700px){
   .image{
     margin-left:6.5%;
-    width:60%;
-    height: 920px;
+    scale: 95%;
   }
 }
 .header{
