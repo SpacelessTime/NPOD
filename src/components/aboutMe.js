@@ -9,7 +9,7 @@ export default function AboutMe() {
 
    <h1> <Link to='/'>Back to NPOD</Link> </h1>
        
-    <div className='mainSect'>Hi , I'm Julian Petrisky. I'm a 20 year old FullStack Engineer from North Carolina currently attending Bloom Institute of Technology.  
+    <div className='mainSect'>Hi , I'm Julian Petrisky. I'm a 20 year old FullStack Engineer from North Carolina having recently Graduated Bloom Institute of Technology.  
                                     I have 2 dogs and 2 cats and I like to spend my free time with friends 
                                         or trying to experiment with different things on my websites. 
                               This Astronomy Photo of the day page is one of my projects that I've been working on, Using the NASA's astronomy picture of the day API 
